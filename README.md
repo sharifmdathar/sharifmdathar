@@ -50,8 +50,8 @@ plus contract-level timeout enforcement. Blue Belt, Stellar Journey to Mastery.
 ### [MARL Fleet Rebalancing](https://github.com/sharifmdathar/marl-fleet-rebalancing)
 
 Measurement study: how do frozen RL fleet-rebalancing policies degrade when
-deployment demand differs from training demand? 62 NYC zones with real ride-hail
-demand, IPPO/MAPPO against tuned LP and greedy baselines.
+deployment demand differs from training demand? 16 Manhattan zones, 108 hourly
+windows (6–14 April 2026), IPPO/MAPPO against tuned LP and greedy baselines.
 
 `Python` · `PettingZoo` · `RL`
 
