@@ -1,93 +1,87 @@
-<div align="center">
+# Md Athar Sharif
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:7C3AED&height=200&section=header&text=Md%20Athar%20Sharif&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20IIIT%20Naya%20Raipur&descAlignY=58&descColor=e0e0e0" />
+**Backend & systems engineer** — Rust, Kotlin, distributed systems, ZK/Stellar.
+B.Tech CSE, IIIT Naya Raipur · Raipur, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-md--athar--sharif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-athar-sharif-ba90a630a)
-[![GitHub](https://img.shields.io/badge/GitHub-sharifmdathar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharifmdathar)
+[![site](https://img.shields.io/badge/%F0%9F%8C%90-athar.is--a.dev-0b0b0f?style=flat-square&labelColor=0b0b0f)](https://athar.is-a.dev)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC-LinkedIn-0A66C2?style=flat-square&labelColor=0A66C2)](https://www.linkedin.com/in/md-athar-sharif-ba90a630a/)
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```kotlin
-val athar = Developer(
-    name     = "MD Athar Sharif",
-    college  = "IIIT Naya Raipur",
-    cgpa     = 9.05
-    location = "Raipur, India",
-    focus    = listOf("Full-Stack Dev", "Cross-Platform Systems", "AI Automation"),
-    funFact  = "I once built an AI that talks to my terminal so I don't have to."
-)
-```
-
-- 🎓 B.Tech CSE @ **IIIT Naya Raipur** — CGPA **9.05**
-- 🏆 JEE Advanced AIR **13,238** | JEE Mains **98.88 percentile**
-- 🤖 Building cross-platform apps, AI agents, and the occasionally games on Unity/Godot
-- 🌱 Currently exploring **LLMs**, **Blockchain**, and **Low-Level Systems**
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-
-**Frameworks & Libraries**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white)
-![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+I build systems that have to be right, not just running — ZK-verified contracts,
+and software that institutions actually depend on.
 
 ---
 
-## 📊 GitHub Stats
+## Flagship projects
 
-<div align="center">
+### [IIITNR Inventory System](https://github.com/sharifmdathar/iiitnr-inventory-app) · [live](https://inventory.iiitnr.ac.in)
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=sharifmdathar&include_all_commits=true&theme=dark_github)
+Institute-wide inventory management, officially adopted by IIIT Naya Raipur.
+Android, iOS, desktop, and web from one shared Kotlin codebase — offline-first,
+JWT + role-based access.
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=sharifmdathar&langs_count=4&theme=dark_github)
+`Kotlin Multiplatform` · `Jetpack Compose` · `Fastify` · `PostgreSQL`
 
+<!-- TODO: the 43-release count appears on athar.is-a.dev but is unverified via API (first releases page showed 30+). Add once confirmed. -->
 
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharifmdathar&theme=tokyonight-duo&hide_border=true&background=0d1117&fire=6EE7F7&currStreakLabel=ffffff" />
+### [ChainChit](https://github.com/sharifmdathar/ChainChit) · [live](https://chain-chit.vercel.app)
 
-</div>
+On-chain chit fund (rotating savings) on Stellar: 5 Soroban contracts, ~3.9K lines
+of Rust, covering group lifecycle, sealed bidding, identity, reputation, and
+dispute resolution. Deployed on testnet with 50+ users. Black Belt, Stellar
+Journey to Mastery.
+
+`Rust` · `Soroban` · `Next.js` · `TypeScript`
+
+### [AegisProcure](https://github.com/sharifmdathar/AegisProcure) · [live](https://aegis-procure.vercel.app)
+
+Trustless sealed-bid reverse auctions for B2B/GovTech procurement on Midnight —
+bids stay confidential end to end while the chain still verifies validity.
+4 ZK circuits: create, commit, reveal, finalize.
+
+`Compact` · `Midnight` · `ZK` · `Next.js`
+
+### [TrustVault](https://github.com/sharifmdathar/trustvault) · [live](https://trustvault-ten.vercel.app/)
+
+Decentralized escrow on Stellar with built-in arbitration and fee sponsorship,
+plus contract-level timeout enforcement. Blue Belt, Stellar Journey to Mastery.
+
+`Soroban` · `React` · `TypeScript`
+
+### [MARL Fleet Rebalancing](https://github.com/sharifmdathar/marl-fleet-rebalancing)
+
+Measurement study: how do frozen RL fleet-rebalancing policies degrade when
+deployment demand differs from training demand? 62 NYC zones with real ride-hail
+demand, IPPO/MAPPO against tuned LP and greedy baselines.
+
+`Python` · `PettingZoo` · `RL`
+
+### [Dynamic Island for Omarchy](https://github.com/sharifmdathar/dynamic-island-omarchy)
+
+QML media/notification bar widget for Omarchy (Hyprland), published and verified
+in the official plugin marketplace.
+
+`QML` · `Hyprland`
+
+### [Delhi-NCR PM2.5](https://github.com/sharifmdathar/delhi-ncr-pm25)
+
+Hourly PM2.5 spatiotemporal forecasting for Delhi-NCR — does a wind-aware dynamic
+graph beat a static distance graph?
+
+`Python`
 
 ---
 
-## 🏆 Achievements
+## Stack
 
-| 🏅 Achievement | 📝 Details |
-|---|---|
-| JEE Advanced 2024 | AIR **13,238** |
-| JEE Mains 2024 | AIR **18,026** · **98.88 percentile** |
+**Languages** Rust · Kotlin · Go · TypeScript
+**Systems** distributed systems (Raft) · ZK / Stellar / Soroban / Midnight
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:6EE7F7&height=100&section=footer" />
-</div>
+---
+
+## Currently
+
+Building a from-scratch Raft consensus implementation with a deterministic
+simulation harness. Open to internships and systems/ZK engineering collaborations.
+
+<!-- TODO: Tuishark (packet-sniffer TUI), uded (hardware-diagnostics CLI), mini-redis — all currently private; no links until public. -->
+<!-- TODO: Go is listed above, but the only Go repos are private (iiitnr-inventory-app-go, codecrafters-claude-go). Confirm before a recruiter goes looking. -->
