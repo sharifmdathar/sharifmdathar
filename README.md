@@ -17,17 +17,15 @@ and software that institutions actually depend on.
 
 Institute-wide inventory management, officially adopted by IIIT Naya Raipur.
 Android, iOS, desktop, and web from one shared Kotlin codebase — offline-first,
-JWT + role-based access.
+JWT + role-based access. 47 releases.
 
 `Kotlin Multiplatform` · `Jetpack Compose` · `Fastify` · `PostgreSQL`
-
-<!-- TODO: the 43-release count appears on athar.is-a.dev but is unverified via API (first releases page showed 30+). Add once confirmed. -->
 
 ### [ChainChit](https://github.com/sharifmdathar/ChainChit) · [live](https://chain-chit.vercel.app)
 
 On-chain chit fund (rotating savings) on Stellar: 5 Soroban contracts, ~3.9K lines
 of Rust, covering group lifecycle, sealed bidding, identity, reputation, and
-dispute resolution. Deployed on testnet with 50+ users. Black Belt, Stellar
+dispute resolution. Deployed on testnet with 50+ testnet users. Black Belt, Stellar
 Journey to Mastery.
 
 `Rust` · `Soroban` · `Next.js` · `TypeScript`
@@ -68,6 +66,22 @@ Hourly PM2.5 spatiotemporal forecasting for Delhi-NCR — does a wind-aware dyna
 graph beat a static distance graph?
 
 `Python`
+
+---
+
+## Open source
+
+- [mpvRex/REX-Player#198](https://github.com/mpvRex/REX-Player/pull/198) — merged
+- [dotfiles/dotfiles.github.com#429](https://github.com/dotfiles/dotfiles.github.com/pull/429) — merged
+- [privateersclub/wiki#93](https://github.com/privateersclub/wiki/pull/93) — merged
+- [mihonapp/mihon#4238](https://github.com/mihonapp/mihon/pull/4238) — vertical edge-swipe brightness gesture, with unit tests (open PR)
+- [crmne/zapfast#1038](https://github.com/crmne/zapfast/pull/1038) — show the sender's name in the media viewer header for group chats (open PR)
+- [alam00000/bentopdf#993](https://github.com/alam00000/bentopdf/pull/993) — externalize the `HASH_PARAMS` shim so CSP allows it (open PR)
+- [alam00000/bentopdf#992](https://github.com/alam00000/bentopdf/pull/992) — Split-by-max-file-size, +353/−13 (open PR)
+- [alam00000/bentopdf#980](https://github.com/alam00000/bentopdf/issues/980) — CSP blocks the inline `HASH_PARAMS` script in Add Stamps (issue)
+- [alam00000/bentopdf#991](https://github.com/alam00000/bentopdf/issues/991) — split PDF by maximum file size (feature request)
+- [mihonapp/mihon#4234](https://github.com/mihonapp/mihon/issues/4234) — left-edge vertical swipe gesture to adjust reader brightness (feature request)
+- [oven-sh/bun#28722](https://github.com/oven-sh/bun/issues/28722) — `Date.now()` integer-overflow report (closed as fixed upstream)
 
 ---
 
